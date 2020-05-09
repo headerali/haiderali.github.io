@@ -1,0 +1,28 @@
+{
+  "name": "headerali.com",
+  "description": "A personal portfolio built with Gatsby, powered by React",
+  "private": true,
+  "author": "Haider Ali Anjum",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "deploy": "gatsby build && gh-pages -d public"
+  },
+  "dependencies": {
+    "gatsby": "^2.18.12",
+    "gatsby-plugin-react-helmet": "^3.3.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1",
+    "prettier": "^1.19.1"
+  }
+}
