@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{RXBc:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),i=t.n(n);t("VxdY");a.default=function(){return i.a.createElement("div",{className:"main-fold-bg"},i.a.createElement("div",{className:"title-container"},i.a.createElement("h1",{className:"name"},"Haider Ali"),i.a.createElement("span",{className:"sub-title"},"Artist, Developer & Utilitarian")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-d408867cc6ef7827f95d.js.map
